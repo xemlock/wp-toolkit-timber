@@ -1,5 +1,6 @@
 {
     "name": "xemlock/wp-toolkit-timber",
+    "description": "Extension to Timber providing easier access to WordPress escapers and functions",
     "license": "MIT",
     "authors": [
         {
