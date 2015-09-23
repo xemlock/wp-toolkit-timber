@@ -18,6 +18,7 @@ class wpToolkitTimber_TwigExtension extends Twig_Extension
             new Twig_SimpleFilter('esc_sql',      'esc_sql'),
             new Twig_SimpleFilter('esc_textarea', 'esc_textarea'),
             new Twig_SimpleFilter('esc_url',      'esc_url'),
+            new Twig_SimpleFilter('size_format',  'size_format'),
         );
         return $filters;
     }
