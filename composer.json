@@ -9,14 +9,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "repositories": [
-        {
-            "type": "git",
-            "url": "https://github.com/xemlock/timber.git"
-        }
-    ],
     "require": {
-        "xemlock/timber": "dev-master"
     },
     "autoload": {
         "psr-0": {
